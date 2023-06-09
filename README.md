@@ -5,8 +5,11 @@
 
 <h1>The Wearable Device</h1>
 <p>The CaringHands wearable device is designed to be comfortable and cost- effective, making it a practical solution for elderly individuals. The device is equipped with fall detection technology that can detect when a person has fallen, and sends an alert to a person who has the accompanying app installed. This alert can be sent to a family member, caregiver, or emergency services if necessary</p>
-<img src="https://github.com/vishaalupot/CaringHands/assets/84678878/23821e72-309a-4158-9c20-814d55874c62" width="450" height="400">
-<img src="https://github.com/vishaalupot/CaringHands/assets/84678878/c6e259cd-cf2a-44d7-a084-c0b3a0a6c5db" width="450" height="400">
+<div style="display: flex;">
+  <img src="https://github.com/vishaalupot/CaringHands/assets/84678878/23821e72-309a-4158-9c20-814d55874c62" width="450" height="400">
+  <img src="https://github.com/vishaalupot/CaringHands/assets/84678878/c6e259cd-cf2a-44d7-a084-c0b3a0a6c5db" width="450" height="400">
+</div>
+
 
 <hr>
 
