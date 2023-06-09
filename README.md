@@ -15,8 +15,6 @@
 </div>
 </div>
 
-<hr>
-
 <div align="center">
 <h1>Robo Buddy</h1>
   </div>
