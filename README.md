@@ -1,7 +1,7 @@
 
 ![cover](https://github.com/vishaalupot/CaringHands/assets/84678878/0911de89-b265-431b-b5f4-b45bb0160cf1)
 
-<p>CaringHands is a novel solution designed to address a critical issue that affects a significant portion of the population - elderly individuals living alone. As people age, the risk of falling increases, and falls are one of the leading causes of injury-related deaths among the elderly, accounting for approximately 40% of all major injury deaths. Falls can also lead to other complications, such as fractures, head injuries, and long-term disabilities, all of which can impact the quality of life of the elderly.</p>
+<p>CaringHands is a novel solution designed to address a critical issue that affects a significant portion of the population - elderly individuals living alone. As people age, the risk of falling increases , and falls are one of the leading causes of injury-related deaths among the elderly, accounting for approximately 40% of all major injury deaths. Falls can also lead to other complications, such as fractures, head injuries, and long-term disabilities, all of which can impact the quality of life of the elderly.</p>
 
 <div align="center">
 <h1>Care Watch</h1>
