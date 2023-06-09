@@ -3,7 +3,9 @@
 
 <p>CaringHands is a novel solution designed to address a critical issue that affects a significant portion of the population - elderly individuals living alone. As people age, the risk of falling increases, and falls are one of the leading causes of injury-related deaths among the elderly, accounting for approximately 40% of all major injury deaths. Falls can also lead to other complications, such as fractures, head injuries, and long-term disabilities, all of which can impact the quality of life of the elderly.</p>
 
-<h1>The Wearable Device</h1>
+<div align="center">
+<h1>Care Watch</h1>
+</div>
 <p>The CaringHands wearable device is designed to be comfortable and cost- effective, making it a practical solution for elderly individuals. The device is equipped with fall detection technology that can detect when a person has fallen, and sends an alert to a person who has the accompanying app installed. This alert can be sent to a family member, caregiver, or emergency services if necessary</p>
 
 <div align="center">
@@ -15,7 +17,9 @@
 
 <hr>
 
+<div align="center">
 <h1>Robo Buddy</h1>
+  </div>
 <p>Additionally, CaringHands is equipped with a robo buddy, which is activated when the device detects a fall. The robo buddy has an embedded medical kit, which allows it to provide the necessary assistance to the person who has fallen. The medical kit includes first aid supplies, such as bandages and disinfectants, and the robo buddy can use these supplies to address any injuries sustained by the individual who has fallen.
  
 The robo buddy is also equipped with a camera, which provides a visual feed of the situation. This visual feed can help the caregiver or emergency services determine the severity of the situation and provide appropriate assistance. The camera also allows the caregiver to check on the individual remotely, even if they are not physically present.</p>
